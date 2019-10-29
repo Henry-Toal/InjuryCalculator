@@ -1,0 +1,380 @@
+[
+  {
+    "Name": "left foot",
+    "Limb": "left leg",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "right foot",
+    "Limb": "right leg",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "left calf",
+    "Limb": "left leg",
+    "Order": 1,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "right calf",
+    "Limb": "right leg",
+    "Order": 1,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "left thigh",
+    "Limb": "left leg",
+    "Order": 2,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "right thigh",
+    "Limb": "right leg",
+    "Order": 2,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "left forearm",
+    "Limb": "left arm",
+    "Order": 4,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "right forearm",
+    "Limb": "right arm",
+    "Order": 4,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "left upper arm",
+    "Limb": "left arm",
+    "Order": 5,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "right upper arm",
+    "Limb": "right arm",
+    "Order": 5,
+    "Removable": "yes",
+    "Probability": 0.05
+  },
+  {
+    "Name": "groin",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "left hip",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "right hip",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "bladder",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "small intestine",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.025
+  },
+  {
+    "Name": "large intestine",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.025
+  },
+  {
+    "Name": "lower back",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "stomach",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "kidney",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "left lung",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.025
+  },
+  {
+    "Name": "right lung",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.025
+  },
+  {
+    "Name": "heart",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "left shoulder",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "right shoulder",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "trachea",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "larynx",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0125
+  },
+  {
+    "Name": "neck",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "left jaw",
+    "Limb": "head",
+    "Order": 1,
+    "Removable": "yes",
+    "Probability": 0.015
+  },
+  {
+    "Name": "right jaw",
+    "Limb": "head",
+    "Order": 1,
+    "Removable": "yes",
+    "Probability": 0.015
+  },
+  {
+    "Name": "chin",
+    "Limb": "head",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "mouth",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "nose",
+    "Limb": "head",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "left ear",
+    "Limb": "head",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.015
+  },
+  {
+    "Name": "right ear",
+    "Limb": "head",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.015
+  },
+  {
+    "Name": "left eye",
+    "Limb": "head",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.015
+  },
+  {
+    "Name": "right eye",
+    "Limb": "head",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.015
+  },
+  {
+    "Name": "side of the head",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.015
+  },
+  {
+    "Name": "top of the head",
+    "Limb": "none",
+    "Order": "none",
+    "Removable": "no",
+    "Probability": 0.015
+  },
+  {
+    "Name": "left palm",
+    "Limb": "left arm",
+    "Order": 2,
+    "Removable": "yes",
+    "Probability": 0.01
+  },
+  {
+    "Name": "right palm",
+    "Limb": "right arm",
+    "Order": 2,
+    "Removable": "yes",
+    "Probability": 0.01
+  },
+  {
+    "Name": "left knuckles",
+    "Limb": "left arm",
+    "Order": 1,
+    "Removable": "yes",
+    "Probability": 0.0025
+  },
+  {
+    "Name": "right knuckles",
+    "Limb": "right arm",
+    "Order": 1,
+    "Removable": "yes",
+    "Probability": 0.0025
+  },
+  {
+    "Name": "left wrist",
+    "Limb": "left arm",
+    "Order": 3,
+    "Removable": "yes",
+    "Probability": 0.0025
+  },
+  {
+    "Name": "right wrist",
+    "Limb": "right arm",
+    "Order": 3,
+    "Removable": "yes",
+    "Probability": 0.0025
+  },
+  {
+    "Name": "left pinky",
+    "Limb": "left arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "right pinky",
+    "Limb": "right arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "left ring finger",
+    "Limb": "left arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "right ring finger",
+    "Limb": "right arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "left middle finger",
+    "Limb": "left arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "right middle finger",
+    "Limb": "right arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "left index finger",
+    "Limb": "left arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "right index finger",
+    "Limb": "right arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.0075
+  },
+  {
+    "Name": "left thumb",
+    "Limb": "left arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.005
+  },
+  {
+    "Name": "right thumb",
+    "Limb": "right arm",
+    "Order": 0,
+    "Removable": "yes",
+    "Probability": 0.005
+  }
+]
